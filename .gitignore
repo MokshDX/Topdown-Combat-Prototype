@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures can get excessive in size
+MemoryCaptures/
+
+# Asset meta data should be visible
+!Assets/**/*.meta
+
+# Ignore Visual Studio / VS Code files
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.unityproj
+*.booproj
+*.svd
+*.pidb
+*.user
+*.userprefs
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# Gradle (Android builds)
+.gradle/
+
+# Unity cache server
+Cache/
+
+# Auto-generated crash reports
+sysinfo.txt
